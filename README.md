@@ -16,7 +16,34 @@ This system provides a comprehensive solution for educational institutions to ma
 - **Responsive Design** (Mobile-first approach)
 - **RESTful API** (Clean, documented endpoints)
 
-## 🏗️ System Architecture
+## � Live Demonstration
+
+### 🎥 Video Walkthrough
+> **Watch the complete system demonstration:** A comprehensive walkthrough showing all features, API testing, and user interactions.
+
+[![Student & Course Management System Demo](EduManage%20-%20Student%20&%20Course%20Management%20-%20Google%20Chrome%202025-08-17%2021-05-39.mp4)
+
+### 📱 What's Covered in the Demo:
+- **🔐 Authentication System** - Admin & Student login flows
+- **👥 Student Management** - Create, read, update, delete operations
+- **📚 Course Management** - Full CRUD functionality
+- **🔧 API Testing** - Complete Postman API demonstrations
+- **📊 Dashboard Features** - Analytics and statistics
+- **📱 Responsive Design** - Mobile and desktop views
+- **🛡️ Security Features** - Role-based access control
+
+### 🎯 Demo Highlights:
+- Complete backend API testing with Postman
+- Frontend user interface walkthrough
+- Database operations and data flow
+- Error handling and validation
+- Authentication and authorization
+
+---
+
+*📝 **Note:** Replace the video link above with your actual demonstration video URL (YouTube, Vimeo, or direct video file)*
+
+## �🏗️ System Architecture
 
 ```
 ┌─────────────────┐    HTTP/HTTPS    ┌─────────────────┐
