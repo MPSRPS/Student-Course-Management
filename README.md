@@ -1,6 +1,13 @@
-# 🎓 Student & Course Management System
+# 🎓 Student & Course Management Syste### 🎯 Demo Highlights:
+- Complete backend API testing with Postman
+- Frontend user interface walkthrough
+- Database operations and data flow
+- Error handling and validation
+- Authentication and authorization
 
-A full-stack web application for managing students and courses with role-based authentication, built with modern technologies and best practices.
+---
+
+## 🏗️ System Architecturestack web application for managing students and courses with role-based authentication, built with modern technologies and best practices.
 
 ## 📋 Project Overview
 
@@ -21,7 +28,11 @@ This system provides a comprehensive solution for educational institutions to ma
 ### 🎥 Video Walkthrough
 > **Watch the complete system demonstration:** A comprehensive walkthrough showing all features, API testing, and user interactions.
 
-[![Student & Course Management System Demo](EduManage%20-%20Student%20&%20Course%20Management%20-%20Google%20Chrome%202025-08-17%2021-05-39.mp4)
+[![Student & Course Management System Demo](https://img.shields.io/badge/🎬_Watch_Full_Demo-FF6B6B?style=for-the-badge&logo=play&logoColor=white)](https://res.cloudinary.com/dxvglwu4p/video/upload/v1755446925/bookNevent_event_banners/assignme/EduManage_-_Student_Course_Management_-_Google_Chrome_2025-08-17_21-05-39_itqq3f.mp4)
+
+**🎥 [Direct Video Link](https://res.cloudinary.com/dxvglwu4p/video/upload/v1755446925/bookNevent_event_banners/assignme/EduManage_-_Student_Course_Management_-_Google_Chrome_2025-08-17_21-05-39_itqq3f.mp4)** *(Click to watch the full demonstration)*
+
+
 
 ### 📱 What's Covered in the Demo:
 - **🔐 Authentication System** - Admin & Student login flows
